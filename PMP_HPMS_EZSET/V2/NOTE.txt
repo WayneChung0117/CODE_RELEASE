@@ -1,0 +1,9 @@
+***** SOURCE CODE INFORMATION ***** 
+
+Commit: 79e4d7ef09a71492b0c644c93cac8e119d9a06fc [79e4d7e]
+Parents: 4a57737ba6
+Author: WayneJamie-PC\WayneJamie <waynechung740117@gmail.com>
+Date: 2023¦~2¤ë14¤é 13:42:05
+Committer: WayneJamie-PC\WayneJamie
+[PMP HPMS EZSET - MB]
+- Add retry lock in auto lock mode.
